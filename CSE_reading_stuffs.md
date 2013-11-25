@@ -13,11 +13,6 @@
 * [Register Allocation]
 * [SSA]
 
-### JIT Compiler
-* [JIT]
-* [Tracing JIT Compiler]
- * [An Overview of TraceMonkey]
-
 
 ## Gabage Collector
 * [Generational GC in Python and Ruby]
@@ -43,9 +38,19 @@
 
 ## Virtual Machine
 
+### JIT Compiler
+* [JIT]
+* [Tracing JIT Compiler]
+ * [An Overview of TraceMonkey]
+
 ### Java VM
 * [Memory Management in the Java HotSpot™ Virtual Machine]
 * [The Java HotSpot Performance Engine Architecture]
+
+### V8
+* [V8 baseline compiler]
+* [V8: a tale of two compilers]
+
 
 
 [An Overview of TraceMonkey]: https://hacks.mozilla.org/2009/07/tracemonkey-overview/
@@ -69,3 +74,6 @@
 [The Google File System]: http://static.googleusercontent.com/media/research.google.com/ko//archive/gfs-sosp2003.pdf
 [The Java HotSpot Performance Engine Architecture]: http://www.oracle.com/technetwork/java/whitepaper-135217.html
 [Tracing JIT Compiler]: http://en.wikipedia.org/wiki/Tracing_just-in-time_compilation
+
+[V8: a tale of two compilers]: http://wingolog.org/archives/2011/07/05/v8-a-tale-of-two-compilers
+[V8 baseline compiler]: http://wingolog.org/archives/2013/04/18/inside-full-codegen-v8s-baseline-compiler
