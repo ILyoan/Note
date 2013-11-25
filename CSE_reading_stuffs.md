@@ -36,6 +36,12 @@
 * [Polymorphism]
 
 
+## Security
+
+### Sendboxing
+* [Software Fault Isolation]
+
+
 ## Virtual Machine
 
 ### JIT Compiler
@@ -69,6 +75,7 @@
 
 [Register Allocation]: http://en.wikipedia.org/wiki/Register_allocation
 
+[Software Fault Isolation]: http://research.google.com/pubs/pub35649.html
 [SSA]: http://en.wikipedia.org/wiki/Static_single_assignment_form
 
 [The Google File System]: http://static.googleusercontent.com/media/research.google.com/ko//archive/gfs-sosp2003.pdf
