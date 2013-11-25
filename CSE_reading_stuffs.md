@@ -34,7 +34,7 @@
 
 ### Type Theory
 * [Polymorphism]
-
+* [Fast and Precise Hybrid Type Inference for JavaScript]
 
 ## Security
 
@@ -63,6 +63,8 @@
 
 [ECMAScript]: http://www.ecmascript.org
 [ECMA-262, Edition 5]: http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+
+[Fast and Precise Hybrid Type Inference for JavaScript]: http://rfrn.org/~shu/drafts/ti.pdf
 
 [Generational GC in Python and Ruby]: http://patshaughnessy.net/2013/10/30/generational-gc-in-python-and-ruby
 
