@@ -19,6 +19,11 @@
 * [Memory Management in the Java HotSpot™ Virtual Machine]
 
 
+## Operatin System Technology
+
+* [Linkers and Loaders]
+
+
 ## Programming Languages
 
 ### Rust
@@ -67,6 +72,8 @@
 [Fast and Precise Hybrid Type Inference for JavaScript]: http://rfrn.org/~shu/drafts/ti.pdf
 
 [Generational GC in Python and Ruby]: http://patshaughnessy.net/2013/10/30/generational-gc-in-python-and-ruby
+
+[Linkers and Loaders]: http://darcs.olsner.se/Linker/linker-book/
 
 [Memory Barrier]: http://en.wikipedia.org/wiki/Memory_barrier
 [Memory Management in the Java HotSpot™ Virtual Machine]: http://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf
