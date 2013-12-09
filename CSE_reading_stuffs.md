@@ -38,6 +38,7 @@
 ## Programming Language Theory
 
 ### Type Theory
+* [Gradual Typing]
 * [Polymorphism]
 * [Fast and Precise Hybrid Type Inference for JavaScript]
 
@@ -72,6 +73,7 @@
 [Fast and Precise Hybrid Type Inference for JavaScript]: http://rfrn.org/~shu/drafts/ti.pdf
 
 [Generational GC in Python and Ruby]: http://patshaughnessy.net/2013/10/30/generational-gc-in-python-and-ruby
+[Gradual Typing]: http://ecee.colorado.edu/~siek/gradualtyping.html
 
 [Linkers and Loaders]: http://darcs.olsner.se/Linker/linker-book/
 
