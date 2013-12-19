@@ -19,10 +19,15 @@
 
 * An Analysis of the Dynamic Behavior of JavaScript Programs
  * PLDI'10.
- * Gregor Richards at all.
+ * Gregor Richards at al.
  * Javascript, Dynamic behavior.
 
 * Type Checking for Javascript.
  * ENTCS volume 138, 2005.
  * Christopher Anderson, Paola Giannini.
  * Javascript, Type checking.
+
+* Improved Type Specialization for Dynamic Scripting Languages
+ * DLS'13
+ * Madhukar N Kedlaya at al.
+ * Javascript, Type inference, Type feedback.
