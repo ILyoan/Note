@@ -60,11 +60,14 @@
 * [The Java HotSpot Performance Engine Architecture]
 
 ### V8
+* [A tour of V8: full compiler]
+* [Polymorphic Inline Caches]
 * [V8 baseline compiler]
 * [V8: a tale of two compilers]
 
 
 
+[A tour of V8: full compiler]: http://www.jayconrod.com/posts/51/a-tour-of-v8-full-compiler
 [An Overview of TraceMonkey]: https://hacks.mozilla.org/2009/07/tracemonkey-overview/
 
 [ECMAScript]: http://www.ecmascript.org
@@ -82,6 +85,7 @@
 
 [JIT]: http://en.wikipedia.org/wiki/Just-in-time_compilation
 
+[Polymorphic Inline Caches]: http://jayconrod.com/posts/44/polymorphic-inline-caches-explained
 [Polymorphism]: http://en.wikipedia.org/wiki/Polymorphism_(computer_science)
 
 [Register Allocation]: http://en.wikipedia.org/wiki/Register_allocation
