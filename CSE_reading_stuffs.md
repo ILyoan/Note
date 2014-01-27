@@ -60,6 +60,7 @@
 * [The Java HotSpot Performance Engine Architecture]
 
 ### V8
+* [V8: an open source javascript engine]
 * [A tour of V8: full compiler]
 * [Polymorphic Inline Caches]
 * [V8 baseline compiler]
@@ -98,4 +99,5 @@
 [Tracing JIT Compiler]: http://en.wikipedia.org/wiki/Tracing_just-in-time_compilation
 
 [V8: a tale of two compilers]: http://wingolog.org/archives/2011/07/05/v8-a-tale-of-two-compilers
+[V8: an open source javascript engine]: http://www.youtube.com/watch?v=hWhMKalEicY
 [V8 baseline compiler]: http://wingolog.org/archives/2013/04/18/inside-full-codegen-v8s-baseline-compiler
