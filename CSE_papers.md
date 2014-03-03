@@ -28,6 +28,11 @@
  * Javascript, Type checking.
 
 * Improved Type Specialization for Dynamic Scripting Languages
- * DLS'13
+ * DLS'13.
  * Madhukar N Kedlaya at al.
  * Javascript, Type inference, Type feedback.
+
+* Optimizing Dynamically-Typed Object-Oriented Languages With Polymorphic Inline Caches
+ * ECOOP '91.
+ * Urs Hölzle, Craig Chambers, David Ungar
+ * Polymorphic Inline Cache.
